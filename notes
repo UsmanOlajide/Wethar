@@ -1,0 +1,8 @@
+UI Components of the app
+- The temp degeree & current weather conditon icon next to it 
+- Text depending on the weather 
+- An icon to display the current weather conditon of current location
+- An icon that goes to another screen to search for the weather condition of a city 
+
+Right now I've gotten the current location of the user 
+Next is to use that location to determine the weather condition
